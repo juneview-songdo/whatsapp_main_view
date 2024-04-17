@@ -1,7 +1,7 @@
 name: whatsapp_main_view
-description: "Description here"
+description: "Whatsapp Main View"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/whatsapp_main_view
 
 version: 1.0.0+1
 

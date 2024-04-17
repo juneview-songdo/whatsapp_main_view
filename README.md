@@ -15,9 +15,11 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/whatsapp_main_view/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/whatsapp_main_view/assets/21379657/3d076193-082c-4dc3-996d-f215323df12f)
+![](https://github.com/juneview-songdo/whatsapp_main_view/assets/21379657/a2b149d7-1607-4a71-a424-290e3a844787)
+![](https://github.com/juneview-songdo/whatsapp_main_view/assets/21379657/7d1bea3d-8dc4-4026-918a-14c93b624d77)
 
